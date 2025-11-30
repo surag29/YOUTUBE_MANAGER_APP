@@ -133,10 +133,10 @@ Once you run the application, you'll see an interactive menu:
 
 ## Author
 
-**Surag Murthy**  
+**Surag Devadiga**  
 - GitHub: [@surag29](https://github.com/surag29)
-- LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add your email]
+- LinkedIn: https://www.linkedin.com/in/surag-devadiga-233477329
+- Email: surudev29@gmail.com
 
 ---
 
